@@ -1,0 +1,54 @@
+* {
+    margin: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+body {
+    width: 100%;
+    height: 50vh;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    background: #959595;
+    background-image: url(../img/1896772-fundo-azul-desfocado-grátis-foto\ \(1\).jpg);
+    
+}
+
+.text-term-privacy {
+    padding: 45px;
+}
+
+main {
+    background-color: rgba(31, 3, 3, 0.144);
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.button-back {
+    display: flex;
+    align-items: center;
+    
+}
+
+.button-back button {
+    border: none;
+    background-color: rgb(99, 41, 194);
+    padding: 0.4rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 40px;
+    color: white;
+}
+
+.button-back button:hover {
+    background-color: rgb(97, 72, 141);
+}
+
+.button-back a {
+    text-decoration: none;
+    color: white;
+}
+
